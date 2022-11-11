@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Digital Native
+          Hello Digital Native v2.0
         </a>
       </header>
     </div>
