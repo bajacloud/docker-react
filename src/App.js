@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Digital Native, Time to Write Some Code
+          Hello Digital Native, Time to Write Some Code, today is 11/11 8:27 AM
         </a>
       </header>
     </div>
